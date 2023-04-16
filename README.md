@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @khematil
 - 👀 I’m interested in learning all sorts of things to help improve my knowledge. 
-- 🌱 I’m currently learning Computer Science @ Carleton U 
-- 💞️ I’m looking to collaborate on nothing at the moment, just trying to get an understanding of GitHub. 
+- 🌱 I’m currently studying Computer Science @ Carleton U 
 - 📫 How to reach me 
      -> E-Mail: k.hematillake@gmail.com 
 
